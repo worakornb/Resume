@@ -31,7 +31,7 @@ Ready to apply knowledge in real work Committ to learning and developing yoursel
   research Solar powered with automatic solar panel cleaning system
   - Dust and dirt accumulated on solar panels have a significant impact on the voltage supplied. This causes the performance of the system to decrease.
 
-
+[![Screenshot-2024-07-03-161713.png](https://i.postimg.cc/8PGhM9hh/Screenshot-2024-07-03-161713.png)](https://postimg.cc/kDj6djY4)
 
 2024
   Play Fun Fest : CODING ERA 2024

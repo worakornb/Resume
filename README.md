@@ -58,6 +58,10 @@ Ready to apply knowledge in real work Committ to learning and developing yoursel
 [![LINE-ALBUM-29-2567-BYD-240805-1.jpg](https://i.postimg.cc/qqNDggv1/LINE-ALBUM-29-2567-BYD-240805-1.jpg)](https://postimg.cc/SYpfvS89)  
 [![LINE-ALBUM-2562024-240805-2.jpg](https://i.postimg.cc/NMzphYkm/LINE-ALBUM-2562024-240805-2.jpg)](https://postimg.cc/N9R1T3Vj)
 
+2024-NOW
+  Currently interning at TCC Technology.
+   -Currently intern for IoT engineer at TCC Technology.
+
 ## Skills
 - Python
 - C / C++

@@ -60,7 +60,7 @@ Ready to apply knowledge in real work Committ to learning and developing yoursel
 
 2024-NOW
   Currently interning at TCC Technology.
-   -Currently intern for IoT engineer at TCC Technology.
+  - Currently intern for IoT engineer at TCC Technology.
 
 ## Skills
 - Python

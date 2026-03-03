@@ -3,21 +3,23 @@
 ## About Me
 Worakorn Boonkuea
 
-Studying Mechatronics Engineering
+Mechatronics Engineering
+
+Working TCC Technology
 
 ## Career Objective
-Mechatronics student Wants an internship to develop skills and experience in robotics and automation. 
-Ready to apply knowledge in real work Committ to learning and developing yourself in a challenging work environment.
+## Mechatronics student Wants an internship to develop skills and experience in robotics and automation. 
+## Ready to apply knowledge in real work Committ to learning and developing yourself in a challenging work environment.
 
 ## Education
 - *Years*: 2017 - 2020
    Diploma of mechatronics program
    Institution : Suranaree Technical College
    GPAX : 3.73
-- *Years*: 2021 - NOW
+- *Years*: 2021 - 2025
    Bachelor of Mechatronics Engineering 
    Institution : King Monkut University of Technology North Bankok
-   GPAX : 2.41
+   GPAX : 2.63
 
 ## Work Experience
 2022

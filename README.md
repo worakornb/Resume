@@ -7,10 +7,6 @@ Mechatronics Engineering
 
 Working TCC Technology
 
-## Career Objective
-## Mechatronics student Wants an internship to develop skills and experience in robotics and automation. 
-## Ready to apply knowledge in real work Committ to learning and developing yourself in a challenging work environment.
-
 ## Education
 - *Years*: 2017 - 2020
    Diploma of mechatronics program
@@ -41,7 +37,7 @@ Working TCC Technology
 
 [![LINE-ALBUM-central-rama9-12-67-240805-3.jpg](https://i.postimg.cc/Px3Ft1TL/LINE-ALBUM-central-rama9-12-67-240805-3.jpg)](https://postimg.cc/xJmP5JkY)
 
-2023-NOW
+2023-2025
   Thesis - Automated Transportation System with QR code for Warehouses  
   using Autonomous Mobile Robots (AMR)
   - mapping with Lidar sensor.
@@ -53,14 +49,14 @@ Working TCC Technology
 [![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
 [![S-87900162.jpg](https://i.postimg.cc/8zz4CjXM/S-87900162.jpg)](https://postimg.cc/xcBMxT21)
 
-2023-NOW
+2023-2025
   Welcoming guests to come see the event at Techno Park Building KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
   - Welcoming guests who come to study, such as BYD Company and the arrival of the Ambassador of Romania to The Kingdom of Thailand.
 
 [![LINE-ALBUM-29-2567-BYD-240805-1.jpg](https://i.postimg.cc/qqNDggv1/LINE-ALBUM-29-2567-BYD-240805-1.jpg)](https://postimg.cc/SYpfvS89)  
 [![LINE-ALBUM-2562024-240805-2.jpg](https://i.postimg.cc/NMzphYkm/LINE-ALBUM-2562024-240805-2.jpg)](https://postimg.cc/N9R1T3Vj)
 
-2024-NOW
+2024-2025
   Currently interning at TCC Technology.
   - Currently intern for IoT engineer at TCC Technology.
 

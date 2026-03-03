@@ -48,6 +48,11 @@ Working TCC Technology
 
 [![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
 [![S-87900162.jpg](https://i.postimg.cc/8zz4CjXM/S-87900162.jpg)](https://postimg.cc/xcBMxT21)
+<img width="710" height="394" alt="image" src="https://github.com/user-attachments/assets/631315c7-a39c-4c63-8296-63dd66bdb93c" />
+<img width="720" height="285" alt="image" src="https://github.com/user-attachments/assets/8f1c5ea6-33bf-4d3a-a1a6-181854eba9c1" />
+<img width="383" height="436" alt="image" src="https://github.com/user-attachments/assets/a31b6470-6eeb-463e-8510-52c0cf8f2570" />
+
+
 
 2023-2025
   Welcoming guests to come see the event at Techno Park Building KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
@@ -95,8 +100,6 @@ Working TCC Technology
 
 ## Interested job
 - IOT Engineer
-
-- DevOps Engineer
 
 - Automation Engineer
 
